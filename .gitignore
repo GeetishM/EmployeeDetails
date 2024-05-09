@@ -44,5 +44,5 @@ app.*.map.json
 
 
 # Exclude specific files
-firebase_options.dart
-firebase.json
+/lib/firebase_options.dart
+/firebase.json
