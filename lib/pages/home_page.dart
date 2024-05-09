@@ -1,12 +1,12 @@
 // ignore_for_file: use_super_parameters
 
-import 'package:employee_details/pages/add_details.dart';
-import 'package:employee_details/pages/emp_editor.dart';
+import 'package:employee_details/pages/add_details.dart'; // AddEmployeePage
+import 'package:employee_details/pages/emp_editor.dart'; // EditEmployeePage
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:intl/intl.dart';
- // AddEmployeePage
- // EditEmployeePage
+
+ 
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
