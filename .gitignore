@@ -43,5 +43,6 @@ app.*.map.json
 /android/app/release
 
 
+# Exclude specific files
 firebase_options.dart
 firebase.json
